@@ -1,0 +1,7 @@
+The following can be observed from the data as presented:
+
+84.03% of the 576 players are male.
+Male players made 652 of the 780 purchases (or: 83.33%).
+44.79% of players are in the 20 - 24 year old age bracket.
+
+Further insights might be found by splitting the age groups by gender as well, to see if anything of significance is there. Also, knowing what the various items contribute to the game might help clarify why some are purchased with more frequency than others.
